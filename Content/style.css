@@ -1,0 +1,17 @@
+body{
+	background: #7ABECC
+}
+@font-face{
+	font-family: LeagueGothicRegular;
+	src: url('League_Gothic-webfont.ttf');
+}
+.myName{
+	color: #D2EDF7;
+	font-size: 130px;
+	text-transform: uppercase;
+	line-height: 0.9em;
+	font-family: LeagueGothicRegular,Arial,Helvetica,sans-serif;
+	letter-spacing: 1px;
+	font-weight: normal;
+	text-shadow: 2px 2px 0 #64B1C6;
+}
